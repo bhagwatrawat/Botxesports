@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Botxesports/static/css/main.0883a44d.css",
-    "main.js": "/Botxesports/static/js/main.b549f1d1.js",
+    "main.css": "/Botxesports/static/css/main.f672fe40.css",
+    "main.js": "/Botxesports/static/js/main.6a20a905.js",
     "static/js/787.5175a37b.chunk.js": "/Botxesports/static/js/787.5175a37b.chunk.js",
     "static/media/BotxLogo.PNG": "/Botxesports/static/media/BotxLogo.b6ec32a00db83da8e92e.PNG",
     "index.html": "/Botxesports/index.html",
-    "main.0883a44d.css.map": "/Botxesports/static/css/main.0883a44d.css.map",
-    "main.b549f1d1.js.map": "/Botxesports/static/js/main.b549f1d1.js.map",
+    "main.f672fe40.css.map": "/Botxesports/static/css/main.f672fe40.css.map",
+    "main.6a20a905.js.map": "/Botxesports/static/js/main.6a20a905.js.map",
     "787.5175a37b.chunk.js.map": "/Botxesports/static/js/787.5175a37b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0883a44d.css",
-    "static/js/main.b549f1d1.js"
+    "static/css/main.f672fe40.css",
+    "static/js/main.6a20a905.js"
   ]
 }
