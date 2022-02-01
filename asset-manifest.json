@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Botxesports/static/css/main.a1142cd0.css",
-    "main.js": "/Botxesports/static/js/main.d0983a48.js",
-    "static/js/787.5175a37b.chunk.js": "/Botxesports/static/js/787.5175a37b.chunk.js",
+    "main.css": "/Botxesports/static/css/main.e449b8d7.css",
+    "main.js": "/Botxesports/static/js/main.c947a310.js",
+    "static/js/787.3e6e5c3b.chunk.js": "/Botxesports/static/js/787.3e6e5c3b.chunk.js",
     "static/media/croc.jpg": "/Botxesports/static/media/croc.30fd0f01eca15d0ed344.jpg",
-    "static/media/BotxLogo.PNG": "/Botxesports/static/media/BotxLogo.b6ec32a00db83da8e92e.PNG",
     "static/media/lagger.jpg": "/Botxesports/static/media/lagger.497a3b6d08114bcf0047.jpg",
     "static/media/pahadi.jpg": "/Botxesports/static/media/pahadi.bc3ca5375e4d99e07af0.jpg",
+    "static/media/Game-Landing-Page-Vector-removebg-preview.png": "/Botxesports/static/media/Game-Landing-Page-Vector-removebg-preview.8e173b931a8d4859fb3a.png",
+    "static/media/BotxLogo-removebg-preview.png": "/Botxesports/static/media/BotxLogo-removebg-preview.53a911ed064868a0eb16.png",
     "static/media/kakashi.jpg": "/Botxesports/static/media/kakashi.5aef9c0e09bcf1a40403.jpg",
+    "static/media/leo.png": "/Botxesports/static/media/leo.1606e1a8922ff944354d.png",
     "index.html": "/Botxesports/index.html",
-    "main.a1142cd0.css.map": "/Botxesports/static/css/main.a1142cd0.css.map",
-    "main.d0983a48.js.map": "/Botxesports/static/js/main.d0983a48.js.map",
-    "787.5175a37b.chunk.js.map": "/Botxesports/static/js/787.5175a37b.chunk.js.map"
+    "main.e449b8d7.css.map": "/Botxesports/static/css/main.e449b8d7.css.map",
+    "main.c947a310.js.map": "/Botxesports/static/js/main.c947a310.js.map",
+    "787.3e6e5c3b.chunk.js.map": "/Botxesports/static/js/787.3e6e5c3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1142cd0.css",
-    "static/js/main.d0983a48.js"
+    "static/css/main.e449b8d7.css",
+    "static/js/main.c947a310.js"
   ]
 }
