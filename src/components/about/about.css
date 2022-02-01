@@ -49,6 +49,9 @@
     flex-wrap: wrap;
     margin:20px;
 }
+._about-content-text>*{
+    margin: 0 40px;
+}
 
 @media(max-width: 742px){
     ._about-intro{
@@ -66,5 +69,8 @@
         flex-direction:column;
         align-items:center;
         margin:0px !important ;
+    }
+    ._about-content-text>*{
+        margin: 0 0 !important;
     }
 }

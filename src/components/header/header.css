@@ -168,6 +168,17 @@
       }
       ._header-container{
           align-items:flex-start;
+          justify-content:center;
       }
+  }
+  @media(max-width:400px){
+    .header-socialMedia{
+      margin-top : 30px;
+      padding: 0 0 ;
+    }
+    ._header-image>img{
+      max-height: 30vh;
+
+    }
   }
   
