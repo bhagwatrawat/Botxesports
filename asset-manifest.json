@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Botxesports/static/css/main.e449b8d7.css",
+    "main.css": "/Botxesports/static/css/main.d9262932.css",
     "main.js": "/Botxesports/static/js/main.c947a310.js",
     "static/js/787.3e6e5c3b.chunk.js": "/Botxesports/static/js/787.3e6e5c3b.chunk.js",
     "static/media/croc.jpg": "/Botxesports/static/media/croc.30fd0f01eca15d0ed344.jpg",
@@ -11,12 +11,12 @@
     "static/media/kakashi.jpg": "/Botxesports/static/media/kakashi.5aef9c0e09bcf1a40403.jpg",
     "static/media/leo.png": "/Botxesports/static/media/leo.1606e1a8922ff944354d.png",
     "index.html": "/Botxesports/index.html",
-    "main.e449b8d7.css.map": "/Botxesports/static/css/main.e449b8d7.css.map",
+    "main.d9262932.css.map": "/Botxesports/static/css/main.d9262932.css.map",
     "main.c947a310.js.map": "/Botxesports/static/js/main.c947a310.js.map",
     "787.3e6e5c3b.chunk.js.map": "/Botxesports/static/js/787.3e6e5c3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e449b8d7.css",
+    "static/css/main.d9262932.css",
     "static/js/main.c947a310.js"
   ]
 }
